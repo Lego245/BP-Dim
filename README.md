@@ -14,14 +14,14 @@ This is a mod for Minecraft that adds Planets for the Planeteer family of mods f
 
 Other Mods:
   - [Planeteer - Core](https://www.curseforge.com/minecraft/mc-mods/planeteer-core)
-  - [Planeteer - Machines](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-machines)
+  - [Planeteer - Machines](https://www.curseforge.com/minecraft/mc-mods/planeteer-machines)
 
 
 
 
 # Planets
 
-- 
+9 new different planets that are being worked on
 
 # Credits #
 
