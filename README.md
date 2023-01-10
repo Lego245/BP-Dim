@@ -1,36 +1,30 @@
-# *Welcome to Beyond Planets - Dimensions Git* #
+<a href="https://discord.gg/2fNcNGjZt8">
+  <p align="center">
+      <img src="https://img.shields.io/discord/698598471896268931?    color=blue&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord" width="191"/> 
+  </p>
+</a>
 
-This is a mod for Minecraft that adds dimensions to an original mod called Beyond Earth.
+# *Planeteer - Dimensions* 
 
-The core mod adds the blocks, but does not attach it to a dimension. This is where this mod comes into play. The core is more of a very early access to this mod.
+This is a mod for Minecraft that adds Planets for the Planeteer family of mods for [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth).
 
 # Links
 
-Curseforge version: [here](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-dimensions)
+[Curseforge Version](https://www.curseforge.com/minecraft/mc-mods/planeteer-dimensions)
 
-Discord: [here](https://discord.gg/tWfYRpKNKW)
+Other Mods:
+  - [Planeteer - Core](https://www.curseforge.com/minecraft/mc-mods/planeteer-core)
+  - [Planeteer - Machines](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-machines)
+
+
+
 
 # Planets
 
-* Sunflower (and orbit)
-* Cat Tonic (and orbit) -> Being Worked On
-
-# Ideas
-
-All of the planets in here are based of friends idea of planets.
-
-# Our other Mods: #
-
-* [Beyond Planets - Core](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-core)
-
-* [Beyond Planets - Machines](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-machines)
-
+- 
 
 # Credits #
 
-* Lego245
-* Paws of Aries
-* Mossy
-* TheRealM18
-* Iamruukie
-* TheCraftingBunny
+- Lego245
+- ZAppFireCZ
+- Former team: [TheRealM18 Studios](https://therealm18studios.com)
